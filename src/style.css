@@ -1,0 +1,18 @@
+body {
+  background-color: antiquewhite;
+  color: brown;
+}
+
+h1,
+h2 {
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+}
+
+.btn {
+  background-color: lightcoral;
+  color: antiquewhite;
+}
